@@ -1,3 +1,5 @@
 
-Hello 
+ https://github.com/patrickpink/Test_git.gi://github.com/patrickpink/Test_git.git
+
+ Hello 
 This is for conflict test
